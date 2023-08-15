@@ -33,7 +33,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##env.locla
+## env.locla
 API_URL=http://localhost:9999/
 NEXT_PUBLIC_API_URL=http://localhost:9999/ 
-# NEXT_PUBLIC_ <=이라는 접두사를 넣으면 client component에서 사용가능함.
+
+NEXT_PUBLIC_ <=이라는 접두사를 넣으면 client component에서 사용가능함.
