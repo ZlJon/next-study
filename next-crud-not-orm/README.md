@@ -33,7 +33,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-## env.locla
+## .env.local
 API_URL=http://localhost:9999/
 NEXT_PUBLIC_API_URL=http://localhost:9999/ 
 
